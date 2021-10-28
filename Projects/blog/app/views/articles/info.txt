@@ -1,0 +1,2 @@
+para enrutar hacia un metodo se debe usar # despues del nombre de la clase controlador
+
